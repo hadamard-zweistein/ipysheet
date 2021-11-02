@@ -1,5 +1,6 @@
 # used for binder
-notebook>=5.3
-git+https://github.com/QuantStack/ipysheet/#egg=ipysheet[all]
-flexx
+pandas
+numpy
+ipysheet
+jupyter
 voila
